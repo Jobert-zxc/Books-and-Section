@@ -5,33 +5,35 @@ This project was developed using **XAMPP** for local development and serves as a
 
 ---
 
-## 🚀 Features
-
-- 📘 Add, view, update, and delete books  
-- 🏷️ Organize books by section  
-- 📅 Record publication year and author details  
-- 🗄️ Database relationships using Eloquent ORM  
-- ⚙️ Built with Laravel’s MVC structure for scalability
+## 🎯 Objectives
+- To apply foundational knowledge of the **Laravel framework**.  
+- To understand the **MVC architecture** in web development.  
+- To practice **database migrations** and **Blade templating**.  
+- To build and run a fully functional web app using **XAMPP and phpMyAdmin**.
 
 ---
 
-## 🧩 Tech Stack
-
-| Category | Tools / Frameworks |
-|-----------|--------------------|
-| Backend | Laravel 11 (PHP Framework) |
-| Frontend | Blade Templates, HTML, CSS |
-| Database | MySQL via phpMyAdmin |
-| Server | XAMPP (Apache + MySQL) |
-| Version Control | Git / GitHub |
+## ⚙️ Features / Functionality
+- User-friendly interface with Blade templates   
+- Basic CRUD (Create, Read, Update, Delete) operations  
+- Integration with a MySQL database via phpMyAdmin  
+- Dynamic content rendering using controllers  
+- Example of Laravel’s built-in authentication structure (optional if implemented)
 
 ---
 
-## 🛠️ Installation Guide
+## 🛠️ Installation Instructions
 
-Follow these steps to run the project locally:
+Follow these steps to install and run the project on your local machine:
 
-### 1. Clone the Repository
+### 1️⃣ Prerequisites
+Make sure you have the following installed:
+- **XAMPP** (for Apache & MySQL)
+- **Composer** (PHP dependency manager)
+- **Git** (to clone the repository)
+- **PHP 8.x or higher**
+
+### 2️⃣ Clone the Repository
+If you don’t already have the project locally:
 ```bash
 git clone https://github.com/Jobert-zxc/Books-and-Section.git
-cd sample-laravel-app
